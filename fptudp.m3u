@@ -1,0 +1,390 @@
+#EXTM3U url-tvg="http://trada.info/epg.xml" tvg-shift=0 cache=500 deinterlace=1 aspect-ratio=16:9 m3uautoload=1
+#------------KÊNH TỔNG HỢP THEO: 🎡 Thiếu Nhi ----------#
+#EXTINF:0 tvg-id="babyfirst" group-title="🎡 Thiếu Nhi" tvg-name="Baby First HD" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_Babyfirst.png", Baby First HD
+udp://@225.1.4.28:30120
+#EXTINF:0 tvg-id="babytvhd" group-title="🎡 Thiếu Nhi" tvg-name="Baby TV HD" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_BabyTV.png", Baby TV HD
+udp://@225.1.4.35:30120
+#EXTINF:0 tvg-id="animalhd" group-title="🎡 Thiếu Nhi" tvg-name="ANIMAL PLANET" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_Animal_Planet.png", Animal Planet HD
+udp://@225.1.1.231:30120
+#EXTINF:0 tvg-id="cbeebies" group-title="🎡 Thiếu Nhi" tvg-name="BBC CbeeBies" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_CBeebies.png", BBC CbeeBies
+udp://@225.1.1.134:30120
+#EXTINF:0 tvg-id="blueantext" group-title="🎡 Thiếu Nhi" tvg-name="Blue Ant Extreme" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_Blue_ant_extreme.png", Blue Ant Extreme
+udp://@225.1.1.204:30120
+#EXTINF:0 tvg-id="boomerang" group-title="🎡 Thiếu Nhi" tvg-name="Boomerang" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_Boomerang.png", Boomerang
+udp://@225.1.4.16:30120
+#EXTINF:0 tvg-id="cartoonhd" group-title="🎡 Thiếu Nhi" tvg-name="Cartoon Network HD" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_Cartoon_Network.png", Cartoon Network HD
+udp://@225.1.4.13:30120
+#EXTINF:0 tvg-id="davinci" group-title="🎡 Thiếu Nhi" tvg-name="Da Vinci HD" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_Da_Vinci.png", Da Vinci HD
+udp://@225.1.1.197:30120
+#EXTINF:0 tvg-id="dreamworks" group-title="🎡 Thiếu Nhi" tvg-name="DreamWorks HD" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_DREAMWORKS_Kids.png", DreamWorks HD
+udp://@225.1.1.136:30120
+#EXTINF:0 tvg-id="animaxhd" group-title="🎡 Thiếu Nhi" tvg-name="Animax" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_Animax.png", Animax
+udp://@225.1.1.135:30120
+#------------KÊNH TỔNG HỢP THEO: 🎬 Phim ----------#
+#EXTINF:0 tvg-id="hbohd" group-title="🎬 Phim" tvg-name="HBO" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_HBO.png", HBO HD
+udp://@225.1.4.90:30120
+#EXTINF:0 tvg-id="cinemaxhd" group-title="🎬 Phim" tvg-name="Cinemax HD" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_cinemax.png", Cinemax HD
+udp://@225.1.2.86:30120
+#EXTINF:0 tvg-id="cinemaworld" group-title="🎬 Phim" tvg-name="Cinema World  HD" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_cinemax_World.png", Cinema World  HD
+udp://@225.1.1.142:30120
+#EXTINF:0 tvg-id="axnhd" group-title="🎬 Phim" tvg-name="AXN" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_AXN.png", AXN HD
+udp://@225.1.2.225:30120
+#EXTINF:0 tvg-id="htvcphimhd" group-title="🎬 Phim" tvg-name="HTVCPHIMHD" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_HTVC_Phim.png", HTVC Phim HD
+udp://@225.1.1.184:30120
+#EXTINF:0 tvg-id="vtc12dhd" group-title="🎬 Phim" tvg-name="VTC12" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_VTC12.jpg", VTC12-ClipTV
+udp://@225.1.2.51:30120
+#------------KÊNH TỔNG HỢP THEO: 🛸 Khám phá ----------#
+#EXTINF:0 tvg-id="discoveryasiahd" group-title="🛸 Khám phá" tvg-name="Discovery Asia HD" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_Discovery_Asia.png", Discovery Asia HD
+udp://@225.1.4.25:30120
+#EXTINF:0 tvg-id="discoveryhd" group-title="🛸 Khám phá" tvg-name="Discovery Channel HD" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_Discovery.png", Discovery Channel HD
+udp://@225.1.4.24:30120
+#EXTINF:0 tvg-id="davinci" group-title="🛸 Khám phá" tvg-name="Da Vinci HD" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_Da_Vinci.png", Da Vinci HD
+udp://@225.1.1.197:30120
+#EXTINF:0 tvg-id="animalhd" group-title="🛸 Khám phá" tvg-name="ANIMAL PLANET" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_Animal_Planet.png", Animal Planet HD
+udp://@225.1.4.27:30120
+#EXTINF:0 tvg-id="ngwhd" group-title="🛸 Khám phá" tvg-name="NAT GEO WILD" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_Nat_Ge_Wild.png", NAT GEO WILD
+udp://@225.1.1.211:30120
+#EXTINF:0 tvg-id="ngchd" group-title="🛸 Khám phá" tvg-name="National Geographic HD" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_National_Geographic.png", National Geographic HD
+udp://@225.1.2.235:30120
+#EXTINF:0 tvg-id="outdoorhd" group-title="🛸 Khám phá" tvg-name="Outdoor Channel HD" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_Outdoor_Channel.png", Outdoor Channel HD
+udp://@225.1.2.215:30120
+#------------KÊNH TỔNG HỢP THEO: 📽 HTV - HTVC ----------#
+#EXTINF:0 tvg-id="htv2hd" group-title="📽 HTV - HTVC" tvg-name="HTV2HD" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_HTV2.png" catchup="append" catchup-days="0.3" catchup-source="https://htvc271120.cdn.vnns.io/06b93ec20336126a28dd0872a68932901632397465/htv2.cat.720p.tms/chunks_dvr_range-${start}-3000.m3u8", HTV2 Vie Channel
+udp://@225.1.1.193:30120
+#EXTINF:0 tvg-id="htv7hd" group-title="📽 HTV - HTVC" tvg-name="HTV7HD" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_HTV7HD.png" description="Thời sự tổng hợp" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/htv7hd_1000.stream/chunks_dvr_range-${start}-10800.m3u8", HTV7 HD
+udp://@225.1.1.192:30120
+#EXTINF:0 tvg-id="htv9hd" group-title="📽 HTV - HTVC" tvg-name="HTV9HD" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_HTV9.png" description="Thời sự tổng hợp" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/htv9hd_1000.stream/chunks_dvr_range-${start}-10800.m3u8", HTV9 HD
+udp://@225.1.1.190:30120
+#EXTINF:0 tvg-id="htvcfbnc" group-title="📽 HTV - HTVC" tvg-name="HTVCFBNC" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_HTVC_FBNC.png" description="Thời sự tổng hợp" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/htvcfbnc_1000.stream/chunks_dvr_range-${start}-10800.m3u8", FBNC
+udp://@225.1.1.182:30120
+#EXTINF:0 tvg-id="htvcphimhd" group-title="📽 HTV - HTVC" tvg-name="HTVCPHIMHD" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_HTVC_Phim.png" description="Thời sự tổng hợp" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/htvcphimhd_1000.stream/chunks_dvr_range-${start}-10800.m3u8", HTVC Phim HD
+udp://@225.1.1.184:30120
+#EXTINF:0 tvg-id="htvcthuanviethd" group-title="📽 HTV - HTVC" tvg-name="HTVCTHUANVIETHD" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_HTVC_ThuanViet.png" description="Thời sự tổng hợp" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/htvcthuanviethd_1000.stream/chunks_dvr_range-${start}-10800.m3u8", Thuần Việt HD
+udp://@225.1.1.186:30120
+#EXTINF:0 tvg-id="htv1" group-title="📽 HTV - HTVC" tvg-name="HTV1" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_HTV1.png" description="Thời sự tổng hợp" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/htv1_1000.stream/chunks_dvr_range-${start}-10800.m3u8", HTV1
+udp://@225.1.1.180:30120
+#EXTINF:0 tvg-id="htv3" group-title="📽 HTV - HTVC" tvg-name="HTV3" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_HTV3.png" description="Thời sự tổng hợp" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/htv3_1000.stream/chunks_dvr_range-${start}-10800.m3u8", HTV3 Dreams TV
+udp://@225.1.1.178:30120
+#EXTINF:0 tvg-id="htvkey" group-title="📽 HTV - HTVC" tvg-name="HTVKEY" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_HTV_Keys.png" description="Thời sự tổng hợp" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/htvkey_1000.stream/chunks_dvr_range-${start}-10800.m3u8", HTV Keys
+udp://@225.1.1.177:30120
+#EXTINF:0 tvg-id="htvthethaohd" group-title="📽 HTV - HTVC" tvg-name="HTVTHETHAOHD" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_HTV_TheThao.png" description="Thời sự tổng hợp" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/htvthethaohd_1000.stream/chunks_dvr_range-${start}-10800.m3u8", HTV THỂ THAO
+udp://@225.1.1.165:30120
+#EXTINF:0 tvg-id="htvccanhachd" group-title="📽 HTV - HTVC" tvg-name="HTVCCANHACHD" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_HTVC_Canhac.png" description="Thời sự tổng hợp" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/htvcanhachd_1000.stream/chunks_dvr_range-${start}-10800.m3u8", HTVC Ca Nhạc
+udp://@225.1.1.185:30120
+#EXTINF:0 tvg-id="htvcdulichhd" group-title="📽 HTV - HTVC" tvg-name="HTVCDULICHHD" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_HTVC_DLCS.png" description="Thời sự tổng hợp" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/htvcdulichhd_1000.stream/chunks_dvr_range-${start}-10800.m3u8", HTVC Du Lịch và Cuộc Sống
+udp://@225.1.1.166:30120
+#EXTINF:0 tvg-id="htvcgiadinhhd" group-title="📽 HTV - HTVC" tvg-name="HTVCGIADINHHD" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_HTVC_GiaDinh.png" description="Thời sự tổng hợp" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/htvcgiadinhhd_1000.stream/chunks_dvr_range-${start}-10800.m3u8", HTVC Gia Đình
+udp://@225.1.1.170:30120
+#EXTINF:0 tvg-id="htvcphunuhd" group-title="📽 HTV - HTVC" tvg-name="HTVCPHUNUHD" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_HTVC_PhuNu.png" description="Thời sự tổng hợp" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/htvcphunuhd_1000.stream/chunks_dvr_range-${start}-10800.m3u8", HTVC Phụ Nữ
+udp://@225.1.1.171:30120
+#EXTINF:0 tvg-id="htvcplushd" group-title="📽 HTV - HTVC" tvg-name="HTVCPLUSHD" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_HTVC_Plus.png" description="Thời sự tổng hợp" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/htvcplushd_1000.stream/chunks_dvr_range-${start}-10800.m3u8", HTVC PLUS
+udp://@225.1.4.91:30120
+#------------KÊNH TỔNG HỢP THEO: 👪 SCTV - VTC ----------#
+#EXTINF:0 tvg-id="vtc1hd" group-title="👪 SCTV - VTC" tvg-name="VTC1" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_VTC1.png" tvg-chno="10" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtc1_1500.stream/chunks_dvr_range-${start}-10800.m3u8", VTC1 HD
+udp://@225.1.2.254:30120
+#EXTINF:0 tvg-id="vtc2" group-title="👪 SCTV - VTC" tvg-name="VTC2" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_VTC2.png" tvg-chno="11" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtc2_1000.stream/chunks_dvr_range-${start}-10800.m3u8", VTC2
+udp://@225.1.2.202:30120
+#EXTINF:0 tvg-id="vtc3hd" group-title="👪 SCTV - VTC" tvg-name="VTC3" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_VTC3.png" tvg-chno="11" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtc3_1000.stream/chunks_dvr_range-${start}-10800.m3u8", VTC3 ON SPORTS
+udp://@225.1.4.42:30120
+#EXTINF:0 tvg-id="vtc4hd" group-title="👪 SCTV - VTC" tvg-name="VTC4" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_VTC4.png" tvg-chno="12" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtc4_1000.stream/chunks_dvr_range-${start}-10800.m3u8", VTC4 Yeah1 Family HD
+udp://@225.1.2.200:30120
+#EXTINF:0 tvg-id="vtc5hd" group-title="👪 SCTV - VTC" tvg-name="VTC5" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_VTC5.jpg" tvg-chno="13" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtc5_1000.stream/chunks_dvr_range-${start}-10800.m3u8", VTC5 HD
+udp://@225.1.2.199:30120
+#EXTINF:0 tvg-id="vtc6hd" group-title="👪 SCTV - VTC" tvg-name="VTC6" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_VTC6.png" tvg-chno="14" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtc6_1000.stream/chunks_dvr_range-${start}-10800.m3u8", VTC6 HD
+udp://@225.1.2.198:30120
+#EXTINF:0 tvg-id="vtc7hd" group-title="👪 SCTV - VTC" tvg-name="VTC7" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_VTC7.png" tvg-chno="15" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtc7_1000.stream/chunks_dvr_range-${start}-10800.m3u8", VTC7 Today TV HD
+udp://@225.1.2.197:30120
+#EXTINF:0 tvg-id="vtc8" group-title="👪 SCTV - VTC" tvg-name="VTC8" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_VTC8.jpg" tvg-chno="16" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtc8_1000.stream/chunks_dvr_range-${start}-10800.m3u8", VTC8 HD
+udp://@225.1.2.196:30120
+#EXTINF:0 tvg-id="vtc9hd" group-title="👪 SCTV - VTC" tvg-name="VTC9" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_VTC9.png" tvg-chno="17" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtc9_1000.stream/chunks_dvr_range-${start}-10800.m3u8", VTC9 Let's Viet HD
+udp://@225.1.2.195:30120
+#EXTINF:0 tvg-id="vtc10hd" group-title="👪 SCTV - VTC" tvg-name="VTC10" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_VTC10.png" tvg-chno="18" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtc10_1000.stream/chunks_dvr_range-${start}-10800.m3u8", VTC10 HD
+udp://@225.1.2.194:30120
+#EXTINF:0 tvg-id="vtc11hd" group-title="👪 SCTV - VTC" tvg-name="VTC11" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_VTC11.png" tvg-chno="19" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtc11_1000.stream/chunks_dvr_range-${start}-10800.m3u8", VTC11 Kids TV
+udp://@225.1.2.193:30120
+#EXTINF:0 tvg-id="vtc12dhd" group-title="👪 SCTV - VTC" tvg-name="VTC12" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_VTC12.jpg" tvg-chno="20" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtc12_1000.stream/chunks_dvr_range-${start}-10800.m3u8", VTC12-ClipTV
+udp://@225.1.2.51:30120
+#EXTINF:0 tvg-id="vtc13hd" group-title="👪 SCTV - VTC" tvg-name="VTC13" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_VTC13.png" tvg-chno="21" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtc13_1000.stream/chunks_dvr_range-${start}-10800.m3u8", VTC13 HD
+udp://@225.1.2.250:30120
+#EXTINF:0 tvg-id="vtc14hd" group-title="👪 SCTV - VTC" tvg-name="VTC14" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_VTC14.png" tvg-chno="22" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtc14_1000.stream/chunks_dvr_range-${start}-10800.m3u8", VTC14 HD
+udp://@225.1.2.88:30120
+#EXTINF:0 tvg-id="vovtvhd" group-title="👪 SCTV - VTC" tvg-name="VOV" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_VTC15.png", VOV TV
+udp://@225.1.2.171:30120
+#EXTINF:0 tvg-id="vtc16" group-title="👪 SCTV - VTC" tvg-name="VTC16" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_VTC16.jpg" tvg-chno="23" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtc16_1000.stream/chunks_dvr_range-${start}-10800.m3u8", VTC16
+udp://@225.1.2.190:30120
+#------------KÊNH TỔNG HỢP THEO: 🏟  VTV- CAB ----------#
+#EXTINF:0 tvg-id="vtv1hd" group-title="🏟  VTV- CAB" tvg-name="VTV1" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_VTV1HD.png"  description="Thời sự tổng hợp" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv1hd_1000.stream/chunks_dvr_range-${start}-10800.m3u8", VTV1 HD
+udp://@225.1.2.249:30120
+#EXTINF:0 tvg-id="vtv2hd" group-title="🏟  VTV- CAB" tvg-name="VTV2" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_VTV2HD.png"  description="Khoa học & giáo dục" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv2_2000.stream/chunks_dvr_range-${start}-10800.m3u8", VTV2 HD
+udp://@225.1.2.13:30120
+#EXTINF:0 tvg-id="vtv3hd" group-title="🏟  VTV- CAB" tvg-name="VTV3" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_VTV3HD.png"  description="Thể thao - giải trí và thông tin kinh tế" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv3hd_1500.stream/chunks_dvr_range-${start}-10800.m3u8", VTV3 HD
+udp://@225.1.2.247:30120
+#EXTINF:0 tvg-id="vtv4hd" group-title="🏟  VTV- CAB" tvg-name="VTV4" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_VTV4HD.png" description="Truyền hình Việt Nam ở nước ngoài" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv4_2000.stream/chunks_dvr_range-${start}-10800.m3u8", VTV4 HD
+udp://@225.1.2.20:30120
+#EXTINF:0 tvg-id="vtv5hd" group-title="🏟  VTV- CAB" tvg-name="VTV5" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_VTV5HD.png" description="Truyền hình dân tộc" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv5hd_1500.stream/chunks_dvr_range-${start}-10800.m3u8", VTV5 HD
+udp://@225.1.1.131:30120
+#EXTINF:0 tvg-id="vtv5hdtnb" group-title="🏟  VTV- CAB" tvg-name="VTV5 TNB" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_VTV5TNB.png" description="Truyền hình dân tộc" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv5hdtnb_1500.stream/chunks_dvr_range-${start}-10800.m3u8", VTV5 HD Tây Nam Bộ
+https://mutixx5hq1liv.akamaized.net/vtv5tnb/vtv5tnb@720p.m3u8
+#EXTINF:0 tvg-id="vtv5hdtn" group-title="🏟  VTV- CAB" tvg-name="VTV5 TN" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_VTV5TN.png" description="Truyền hình dân tộc" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv5hdtn_1500.stream/chunks_dvr_range-${start}-10800.m3u8", VTV5 HD Tây Nguyên
+https://mutixx5hq1liv.akamaized.net/vtv5tn/vtv5tn@720p.m3u8
+#EXTINF:0 tvg-id="vtv6hd" group-title="🏟  VTV- CAB" tvg-name="VTV6" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_VTV6HD.png" description="Truyền hình thanh thiếu niên" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv6hd_1500.stream/chunks_dvr_range-${start}-10800.m3u8", VTV6 HD
+udp://@225.1.2.245:30120
+#EXTINF:0 tvg-id="vtv7hd" group-title="🏟  VTV- CAB" tvg-name="VTV7" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_VTV7HD.png" description="Truyền hình giáo dục" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv7hd_1500.stream/chunks_dvr_range-${start}-10800.m3u8", VTV7 HD
+udp://@225.1.2.96:30120
+#EXTINF:0 tvg-id="vtv8hd" group-title="🏟  VTV- CAB" tvg-name="VTV8" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_VTV8HD.png" description="Truyền hình quốc gia khu vực miền Trung Tây Nguyên" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv8hd_1500.stream/chunks_dvr_range-${start}-10800.m3u8", VTV8 HD
+udp://@225.1.2.166:30120
+#EXTINF:0 tvg-id="vtv9hd" group-title="🏟  VTV- CAB" tvg-name="VTV9" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_VTV9HD.png" description="Truyền hình quốc gia khu vực miền Nam" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv9_1500.stream/chunks_dvr_range-${start}-10800.m3u8", VTV9 HD
+udp://@225.1.1.128:30120
+#EXTINF:0 tvg-id="vtvcab11" group-title="🏟  VTV- CAB" tvg-name="VTVCab11 GS SHOP" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_VTVCAB11.png",GS SHOP
+udp://@225.1.2.167:30120
+#EXTINF:0 tvg-id="vtvcab13hd" group-title="🏟  VTV- CAB" tvg-name="VTVCAB13" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_VTVCAB13.png",VTV Hyundai Homeshopping
+udp://@225.1.1.122:30120
+
+#------------KÊNH TỔNG HỢP THEO: 🌏 Quốc Tế ----------#
+#EXTINF:0 tvg-id="cnn" group-title="🌏 Quốc Tế" tvg-name="CNN" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_CNN.png", CNN
+udp://@225.1.4.17:30120
+#EXTINF:0 tvg-id="bbcworldnews" group-title="🌏 Quốc Tế" tvg-name="BBC World News" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_BBC_WorldNews.png", BBC World News
+udp://@225.1.4.22:30120
+#EXTINF:0 tvg-id="sbscnbchd" group-title="🌏 Quốc Tế" tvg-name="CNBC" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_CNBC.png", CNBC
+udp://@225.1.1.227:30120
+#EXTINF:0 tvg-id="fashionhd" group-title="🌏 Quốc Tế" tvg-name="FASHION TV 4K" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_Fashion.png", Fashion TV 4K
+udp://@225.1.2.232:30120
+#EXTINF:0 tvg-id="channelv" group-title="🌏 Quốc Tế" tvg-name="[V]" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_V.png", [V] HD
+udp://@225.1.1.188:30120
+#EXTINF:0 tvg-id="abcaustralia" group-title="🌏 Quốc Tế" tvg-name="ABC Australia" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_ABC_Australia.png", ABC Australia
+udp://@225.1.2.21:30120
+#EXTINF:0 tvg-id="blueantent" group-title="🌏 Quốc Tế" tvg-name="Blue Ant Entertainment" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_Blue_ant_entertainment.png", Blue Ant Entertainment
+udp://@225.1.1.203:30120
+#EXTINF:0 tvg-id="arirang" group-title="🌏 Quốc Tế" tvg-name="Arirang" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_Arirang.png", Arirang
+udp://@225.1.4.74:30120
+#EXTINF:0 tvg-id="afnhd" group-title="🌏 Quốc Tế" tvg-name="Asian Food Network HD" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_AFN.png", Asian Food Network HD
+udp://@225.1.4.36:30120
+#EXTINF:0 tvg-id="bbcearth" group-title="🌏 Quốc Tế" tvg-name="BBC earth HD" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_BBC_Earth.png", BBC earth HD
+udp://@225.1.4.21:30120
+#EXTINF:0 tvg-id="bbclifestyle" group-title="🌏 Quốc Tế" tvg-name="BBC lifestyle" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_BBC_Lifestyle.jpg", BBC lifestyle
+udp://@225.1.4.23:30120
+#EXTINF:0 tvg-id="kix" group-title="🌏 Quốc Tế" tvg-name="KIX HD" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_KIX.png", KIX HD
+udp://@225.1.2.144:30120
+#EXTINF:0 tvg-id="kbsword" group-title="🌏 Quốc Tế" tvg-name="KBS World" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_KBS_World.png", KBS World
+udp://@225.1.4.69:30120
+#EXTINF:0 tvg-id="mtvhd" group-title="🌏 Quốc Tế" tvg-name="MTV HD" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_MTV.png", MTV HD
+udp://@225.1.1.245:30120
+#EXTINF:0 tvg-id="nhkworld" group-title="🌏 Quốc Tế" tvg-name="NHK World Japan HD" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_NHK.png", NHK WORLD JAPAN HD
+udp://@225.1.4.73:30120
+#EXTINF:0 tvg-id="tlchd" group-title="🌏 Quốc Tế" tvg-name="TLC HD" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_TLC.png", TLC HD
+udp://@225.1.1.236:30120
+#EXTINF:0 tvg-id="tv5monde" group-title="🌏 Quốc Tế" tvg-name="TV5 Monde Asia" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_TV5.png", TV5 Monde Asia
+udp://@225.1.1.200:30120
+#EXTINF:0 tvg-id="warnertvhd" group-title="🌏 Quốc Tế" tvg-name="Warner TV HD" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_WB.png", Warner TV HD
+udp://@225.1.1.139:30120
+
+
+#------------KÊNH TỔNG HỢP THEO: 🛶 Quê Hương 1 ----------#
+#EXTINF:0 tvg-id="vinhlong1hd" group-title="🛶 Quê Hương 1" tvg-name="THVL 1" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_THVL1.png" tvg-chno="41" catchup="append" catchup-days="0.3" catchup-source="https://live1.thvli.vn/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmkiOiIvdGh2bDEtNzIwcCIsImV4cCI6MTYzMjA1NzkzOX0.ZjZ3z2_rhWMYzMCmJp3paek9drRsC67UM4uJupr9bVs-/thvl1-720p/chunks_dvr_range-${start}-900.m3u8", THVL 1
+udp://@225.1.1.155:30120
+#EXTINF:0 tvg-id="vinhlong2hd" group-title="🛶 Quê Hương 1" tvg-name="THVL 2" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_THVL2.png"  tvg-chno="42" catchup="append" catchup-days="0.3" catchup-source="https://live1.thvli.vn/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmkiOiIvdGh2bDItNzIwcCIsImV4cCI6MTYzMjA1ODMwMH0.4PTHR8_ixewLqEsezx2dUUnJaHLplrvQLZww8Nlr9no-/thvl2-720p/chunks_dvr_range-${start}-1140.m3u8", THVL 2
+udp://@225.1.1.154:30120
+#EXTINF:0 tvg-id="vinhlong3hd" group-title="🛶 Quê Hương 1" tvg-name="THVL 3" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_THVL3.png" tvg-chno="43" catchup="append" catchup-days="0.3" catchup-source="https://live1.thvli.vn/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmkiOiIvdGh2bDMtNzIwcCIsImV4cCI6MTYzMjA1ODQ3OH0.fPCUZD3MwEtYtZBwCZUUhrujqJVbVH1SrIePamgKNPI-/thvl3-720p/chunks_dvr_range-${start}-3464.m3u8", THVL 3
+udp://@225.1.1.235:30120
+#EXTINF:0 tvg-id="vinhlong4hd" group-title="🛶 Quê Hương 1" tvg-name="THVL 4" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_THVL4.png" tvg-logo="https://i.ibb.co/F5VZQ8x/THVL4-HD-BEARTV.png" tvg-chno="44" catchup="append" catchup-days="0.3" catchup-source="https://live1.thvli.vn/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmkiOiIvdGh2bDQtNzIwcCIsImV4cCI6MTYzMjA1ODQ3Mn0.nZmTLeG-UUwn6Am5noSxRzcQCFJOwq2g8Ei3u47uqb4-/thvl4-720p/chunks_dvr_range-${start}-293.m3u8, THVL 4
+udp://@225.1.2.25:30120
+#EXTINF:0 tvg-id="binhduong1" group-title="🛶 Quê Hương 1" tvg-name="BTV 1" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_BTV1.png", BTV 1
+udp://@225.1.1.150:30120
+#EXTINF:0 tvg-id="binhduong2" group-title="🛶 Quê Hương 1" tvg-name="BTV 2" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_BTV2.png", BTV 2
+udp://@225.1.1.149:30120
+#EXTINF:0 tvg-id="btv3hd" group-title="🛶 Quê Hương 1" tvg-name="BTV 3" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_BTV3.png", BTV 3
+udp://@225.1.2.22:30120
+#EXTINF:0 tvg-id="binhduong4" group-title="🛶 Quê Hương 1" tvg-name="BTV 4" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_BTV4.png", BTV 4
+udp://@225.1.1.30:30120
+
+#EXTINF:0 tvg-id="btv6" group-title="🛶 Quê Hương 1" tvg-name="BTV 6" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_BTV6.png", BTV 6
+udp://@225.1.1.223:30120
+#EXTINF:0 tvg-id="anvienhd" group-title="🛶 Quê Hương 1" tvg-name="BTV 9" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_BTV9.png", BTV 9
+udp://@225.1.2.189:30120
+#EXTINF:0 tvg-id="binhduong10" group-title="🛶 Quê Hương 1" tvg-name="BTV 10" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_BTV10.png", BTV 10
+udp://@225.1.1.225:30120
+#EXTINF:0 tvg-id="btv11" group-title="🛶 Quê Hương 1" tvg-name="BTV 11" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_BTV11.png", BTV 11
+udp://@225.1.1.224:30120
+#EXTINF:0 tvg-id="dongnai1" group-title="🛶 Quê Hương 1" tvg-name="Đồng Nai 1" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_DongNai1.png", Đồng Nai 1
+udp://@225.1.1.152:30120
+#EXTINF:0 tvg-id="dongnai2" group-title="🛶 Quê Hương 1" tvg-name="Đồng Nai 2" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_DongNai2.png", Đồng Nai 2
+udp://@225.1.1.151:30120
+#EXTINF:0 tvg-id="dongnai9" group-title="🛶 Quê Hương 1" tvg-name="Đồng Nai 9 - Sky Shop" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_DongNai.png", Đồng Nai 9 - Sky Shop
+udp://@225.1.1.153:30120
+#EXTINF:0 tvg-id="tayninhhd" group-title="🛶 Quê Hương 1" tvg-name="Tây Ninh" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_TayNinh1.png", Tây Ninh
+udp://@225.1.1.130:30120
+#EXTINF:0 tvg-id="travinh" group-title="🛶 Quê Hương 1" tvg-name="Trà Vinh" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_TraVinh.png", Trà Vinh
+udp://@225.1.2.172:30120
+#EXTINF:0 tvg-id="haugiang" group-title="🛶 Quê Hương 1" tvg-name="Hậu Giang" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_HauGiang.png", Hậu Giang
+udp://@225.1.1.157:30120
+#EXTINF:0 tvg-id="kiengiang" group-title="🛶 Quê Hương 1" tvg-name="Kiên Giang" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_KIENGIANG.png", Kiên Giang
+udp://@225.1.2.182:30120
+#EXTINF:0 tvg-id="baclieu" group-title="🛶 Quê Hương 1" tvg-name="Bạc Liêu" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_BacLieu.png", Bạc Liêu
+udp://@225.1.1.61:30120
+#EXTINF:0 tvg-id="camau" group-title="🛶 Quê Hương 1" tvg-name="Cà Mau" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_CaMau.png", Cà Mau
+udp://@225.1.1.104:30120
+#EXTINF:0 tvg-id="cantho" group-title="🛶 Quê Hương 1" tvg-name="Cần Thơ" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_CanTho.png", Cần Thơ
+udp://@225.1.1.132:30120
+#EXTINF:0 tvg-id="binhphuoc1" group-title="🛶 Quê Hương 1" tvg-name="Bình Phước 1" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_BinhPhuoc1.png", Bình Phước 1
+udp://@225.1.2.23:30120
+#EXTINF:0 tvg-id="binhphuoc2" group-title="🛶 Quê Hương 1" tvg-name="Bình Phước 2" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_BinhPhuoc2.png", Bình Phước 2
+udp://@225.1.2.38:30120
+#EXTINF:0 tvg-id="tiengiang" group-title="🛶 Quê Hương 1" tvg-name="Tiền Giang" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_TienGiang.png", Tiền Giang
+udp://@225.1.2.170:30120
+#EXTINF:0 tvg-id="dongthap" group-title="🛶 Quê Hương 1" tvg-name="Đồng Tháp 1" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_DongThap.png", Đồng Tháp 1
+udp://@225.1.1.163:30120
+
+#EXTINF:0 tvg-id="angiang" group-title="🛶 Quê Hương 1" tvg-name="An Giang" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_AnGiang.png", An Giang
+udp://@225.1.2.173:30120
+#EXTINF:0 tvg-id="bentre" group-title="🛶 Quê Hương 1" tvg-name="Bến Tre" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_BenTre.png", Bến Tre
+udp://@225.1.1.156:30120
+#EXTINF:0 tvg-id="soctrang" group-title="🛶 Quê Hương 1" tvg-name="Sóc Trăng 1" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_SocTrang1.png", Sóc Trăng 1
+udp://@225.1.1.159:30120
+#EXTINF:0 tvg-id="soctrang2" group-title="🛶 Quê Hương 1" tvg-name="Sóc Trăng 2" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_SocTrang2.png", Sóc Trăng 2
+udp://@225.1.1.159:30120
+#EXTINF:0 tvg-id="longan" group-title="🛶 Quê Hương 1" tvg-name="LA34" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_LongAn.png", LA34
+udp://@225.1.1.162:30120
+#------------KÊNH TỔNG HỢP THEO: 🏖 Quê Hương 2 ----------#
+#EXTINF:0 tvg-id="quangngai" group-title="🏖 Quê Hương 2" tvg-name="Quảng Ngãi" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_QuangNgai.png", Quảng Ngãi
+udp://@225.1.2.174:30120
+#EXTINF:0 tvg-id="danang1" group-title="🏖 Quê Hương 2" tvg-name="Đà Nẵng 1" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_DaNang1.png", Đà Nẵng 1
+udp://@225.1.1.147:30120
+#EXTINF:0 tvg-id="danang2" group-title="🏖 Quê Hương 2" tvg-name="Đà Nẵng 2" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_DaNang2.png", Đà Nẵng 2
+udp://@225.1.1.146:30120
+#EXTINF:0 tvg-id="hue" group-title="🏖 Quê Hương 2" tvg-name="Thừa Thiên Huế" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_TTH.png", Thừa Thiên Huế
+udp://@225.1.1.161:30120
+#EXTINF:0 tvg-id="quangtri" group-title="🏖 Quê Hương 2" tvg-name="Quảng Trị" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_QuangTri.png", Quảng Trị
+udp://@225.1.1.117:30120
+#EXTINF:0 tvg-id="quangnam" group-title="🏖 Quê Hương 2" tvg-name="Quảng Nam" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_QuangNam.png", Quảng Nam
+udp://@225.1.2.50:30120
+#EXTINF:0 tvg-id="binhdinh" group-title="🏖 Quê Hương 2" tvg-name="Bình Định" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_BinhDinh.png", Bình Định
+udp://@225.1.1.145:30120
+#EXTINF:0 tvg-id="phuyen" group-title="🏖 Quê Hương 2" tvg-name="Phú Yên" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_PhuYen.png", Phú Yên
+udp://@225.1.2.58:30120
+#EXTINF:0 tvg-id="khanhhoa" group-title="🏖 Quê Hương 2" tvg-name="Khánh Hòa" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_KhanhHoa.png", Khánh Hòa
+udp://@225.1.1.133:30120
+#EXTINF:0 tvg-id="ninhthuan" group-title="🏖 Quê Hương 2" tvg-name="Ninh Thuận" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_NinhThuan.png", Ninh Thuận
+udp://@225.1.2.178:30120
+#EXTINF:0 tvg-id="binhthuan" group-title="🏖 Quê Hương 2" tvg-name="Bình Thuận" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_BinhThuan.png", Bình Thuận
+udp://@225.1.1.124:30120
+#EXTINF:0 tvg-id="kontum" group-title="🏖 Quê Hương 2" tvg-name="Kon Tum" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_KonTum.png", Kon Tum
+udp://@225.1.1.36:30120
+#EXTINF:0 tvg-id="gialai" group-title="🏖 Quê Hương 2" tvg-name="Gia Lai" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_GiaLai.png", Gia Lai
+udp://@225.1.2.176:30120
+#EXTINF:0 tvg-id="lamdong" group-title="🏖 Quê Hương 2" tvg-name="Lâm Đồng" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_LamDong.png", Lâm Đồng
+udp://@225.1.2.177:30120
+#EXTINF:0 tvg-id="daklak" group-title="🏖 Quê Hương 2" tvg-name="Dak Lak" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_Daklak.png", Dak Lak
+udp://@225.1.1.64:30120
+#EXTINF:0 tvg-id="nghean" group-title="🏖 Quê Hương 2" tvg-name="Nghệ An" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_NgheAn.png", Nghệ An
+udp://@225.1.2.183:30120
+#EXTINF:0 tvg-id="hatinh" group-title="🏖 Quê Hương 2" tvg-name="Hà Tỉnh" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_HaTinh.png", Hà Tỉnh
+udp://@225.1.1.75:30120
+#------------KÊNH TỔNG HỢP THEO: 🏞️ Quê Hương 3 ----------#
+#EXTINF:0 tvg-id="laocai" group-title="🏞️ Quê Hương 3" tvg-name="Lào Cai" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_LaoCai.png", Lào Cai
+udp://@225.1.1.119:30120
+#EXTINF:0 tvg-id="dienbien" group-title="🏞️ Quê Hương 3" tvg-name="Điện Biên" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_DienBien.png", Điện Biên
+udp://@225.1.1.74:30120
+#EXTINF:0 tvg-id="tuyenquang" group-title="🏞️ Quê Hương 3" tvg-name="Tuyên Quang" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_TuyenQuang.png", Tuyên Quang
+udp://@225.1.2.188:30120
+#EXTINF:0 tvg-id="thainguyen" group-title="🏞️ Quê Hương 3" tvg-name="Thái Nguyên" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_ThaiNguyen.png", Thái Nguyên
+udp://@225.1.2.179:30120
+#EXTINF:0 tvg-id="hoabinh" group-title="🏞️ Quê Hương 3" tvg-name="Hòa Bình" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_HoaBinh.png", Hòa Bình
+udp://@225.1.2.168:30120
+#EXTINF:0 tvg-id="phutho" group-title="🏞️ Quê Hương 3" tvg-name="Phú Thọ" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_PhuTho.png", Phú Thọ
+udp://@225.1.2.165:30120
+#EXTINF:0 tvg-id="bacgiang" group-title="🏞️ Quê Hương 3" tvg-name="Bắc Giang" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_BacGiang.png", Bắc Giang
+udp://@225.1.1.164:30120
+#EXTINF:0 tvg-id="langson" group-title="🏞️ Quê Hương 3" tvg-name="Lạng Sơn" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_LangSOn.png", Lạng Sơn
+udp://@225.1.1.160:30120
+#EXTINF:0 tvg-id="caobang" group-title="🏞️ Quê Hương 3" tvg-name="Cao Bằng" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_CaoBang.png", Cao Bằng
+udp://@225.1.1.102:30120
+#EXTINF:0 tvg-id="backan" group-title="🏞️ Quê Hương 3" tvg-name="Bắc Cạn" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_BacCan.png", Bắc Cạn
+udp://@225.1.1.126:30120
+#EXTINF:0 tvg-id="quangninh1" group-title="🏞️ Quê Hương 3" tvg-name="Quảng Ninh 1" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_QuangNinh.png", Quảng Ninh 1
+udp://@225.1.2.181:30120
+#EXTINF:0 tvg-id="quangninh3" group-title="🏞️ Quê Hương 3" tvg-name="Quảng Ninh 3" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_QuangNinh3.png", Quảng Ninh 3
+udp://@225.1.2.180:30120
+#EXTINF:0 tvg-id="bacninh" group-title="🏞️ Quê Hương 3" tvg-name="Bắc Ninh" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_BACNINH.png", Bắc Ninh
+udp://@225.1.1.40:30120
+#EXTINF:0 tvg-id="hanoi1" group-title="🏞️ Quê Hương 3" tvg-name="Hà Nội 1" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_HaNoi1.png", Hà Nội 1
+udp://@225.1.2.186:30120
+#EXTINF:0 tvg-id="hanoi2" group-title="🏞️ Quê Hương 3" tvg-name="Hà Nội 2" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_HaNoi2.png", Hà Nội 2
+udp://@225.1.1.125:30120
+#EXTINF:0 tvg-id="haiphong" group-title="🏞️ Quê Hương 3" tvg-name="Hải Phòng" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_HaiPhong.png", Hải Phòng
+udp://@225.1.1.44:30120
+#EXTINF:0 tvg-id="ninhbinh" group-title="🏞️ Quê Hương 3" tvg-name="Ninh Bình" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_NinhBinh.png", Ninh Bình
+udp://@225.1.2.185:30120
+#EXTINF:0 tvg-id="nghean" group-title="🏞️ Quê Hương 3" tvg-name="Nghệ An" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_NgheAn.png", Nghệ An
+udp://@225.1.2.183:30120
+#EXTINF:0 tvg-id="hatinh" group-title="🏞️ Quê Hương 3" tvg-name="Hà Tỉnh" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_HaTinh.png", Hà Tỉnh
+udp://@225.1.1.75:30120
+#EXTINF:0 tvg-id="yenbai" group-title="🏞️ Quê Hương 3" tvg-name="Yên Bái" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_YenBai.png", Yên Bái
+udp://@225.1.1.39:30120
+#EXTINF:0 tvg-id="laichau" group-title="🏞️ Quê Hương 3" tvg-name="Lai Châu" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_LaiChau.png", Lai Châu
+udp://@225.1.2.36:30120
+#EXTINF:0 tvg-id="sonla" group-title="🏞️ Quê Hương 3" tvg-name="Sơn La" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_SonLa.png", Sơn La
+udp://@225.1.1.98:30120
+#EXTINF:0 tvg-id="hagiang" group-title="🏞️ Quê Hương 3" tvg-name="Hà Giang" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_HaGIang.png", Hà Giang
+udp://@225.1.1.62:30120
+#EXTINF:0 tvg-id="quangbinhtv" group-title="🏞️ Quê Hương 3" tvg-name="Quảng Bình" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_QuangBInh.png", Quảng Bình
+udp://@225.1.2.164:30120
+#EXTINF:0 tvg-id="hanam" group-title="🏞️ Quê Hương 3" tvg-name="Hà Nam" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_HaNam.png", Hà Nam
+udp://@225.1.1.63:30120
+#EXTINF:0 tvg-id="haiduong" group-title="🏞️ Quê Hương 3" tvg-name="Hải Dương" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_HaiDuong.png", Hải Dương
+udp://@225.1.1.158:30120
+#EXTINF:0 tvg-id="hungyen" group-title="🏞️ Quê Hương 3" tvg-name="Hưng Yên" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_HungYen.png", Hưng Yên
+udp://@225.1.1.118:30120
+#EXTINF:0 tvg-id="namdinh" group-title="🏞️ Quê Hương 3" tvg-name="Nam Định" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_NamDinh.png", Nam Định
+udp://@225.1.1.120:30120
+#EXTINF:0 tvg-id="thaibinh" group-title="🏞️ Quê Hương 3" tvg-name="Thái Bình" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_ThaiBinh.png", Thái Bình
+udp://@225.1.1.99:30120
+#EXTINF:0 tvg-id="vinhphuc" group-title="🏞️ Quê Hương 3" tvg-name="Vĩnh Phúc" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_VinhPhuc.png", Vĩnh Phúc
+udp://@225.1.2.99:30120
+#EXTINF:0 tvg-id="thanhhoa" group-title="🏞️ Quê Hương 3" tvg-name="Thanh Hóa" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_ThanhHoa.png", Thanh Hóa
+udp://@225.1.2.184:30120
+#EXTINF:0 tvg-id="quangbinhtv" group-title="🏞️ Quê Hương 3" tvg-name="Quảng Bình" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_QuangBInh.png", Quảng Bình
+udp://@225.1.2.164:30120
+#------------KÊNH TỔNG HỢP THEO: 🇻🇳 Khác ----------#
+#EXTINF:0 tvg-id="antg" group-title="🇻🇳 Khác" tvg-name="ANTV HD" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_antv.png", ANTV HD
+udp://@225.1.2.169:30120
+#EXTINF:0 tvg-id="nhandan" group-title="🇻🇳 Khác" tvg-name="Nhân Dân TV" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_nhandan.png", Nhân Dân TV
+udp://@225.1.1.91:30120
+#EXTINF:0 tvg-id="quochoi" group-title="🇻🇳 Khác" tvg-name="QUỐC HỘI" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_quochoi.png", Quốc Hội
+udp://@225.1.2.148:30120
+#EXTINF:0 tvg-id="qpvnhd" group-title="🇻🇳 Khác" tvg-name="QPVN" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_QPVN.png", QPVN
+udp://@225.1.2.217:30120
+#EXTINF:0 tvg-id="vnews" group-title="🇻🇳 Khác" tvg-name="VNEWS" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_vnews.png", VNEWS
+udp://@225.1.1.43:30120
+#EXTINF:0 tvg-id="france24eng" group-title="🇻🇳 Khác" tvg-name="HTV7HD" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_pladio_163947930147.png", Pladio 
+udp://@225.1.2.244:30120
+#------------KÊNH TỔNG HỢP THEO: 📻 Radio ----------#
+#EXTINF:0 tvg-id="france24eng" group-title="📻 Radio" tvg-name="VOH FM 99.9" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_VOH_99.9.png", VOH FM 99.9
+https://strm.voh.com.vn/radio/channel3/playlist.m3u8
+#EXTINF:0 tvg-id="france24eng" group-title="📻 Radio" tvg-name="VOH FM 95.6Mhz" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_VOH_95.6.png", VOH FM 95.6Mhz
+https://strm.voh.com.vn/radio/channel1/playlist.m3u8
+#EXTINF:0 tvg-id="france24eng" group-title="📻 Radio" tvg-name="VOH FM 87.7Mhz" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_VOH_87.png", VOH FM 87.7Mhz
+https://strm.voh.com.vn/radio/channel5/playlist.m3u8
+#EXTINF:0 tvg-id="france24eng" group-title="📻 Radio" tvg-name="VOH AM 610Khz" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_VOH610.png", VOH AM 610Khz
+https://strm.voh.com.vn/radio/channel2/playlist.m3u8
+#EXTINF:0 tvg-id="france24eng" group-title="📻 Radio" tvg-name="VOV Giao thông Hồ Chí Minh" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_VOVGiaoThong.png", VOV Giao thông Hồ Chí Minh
+http://media.kythuatvov.vn:1936/live/VOVGTHCM.sdp/playlist.m3u8
+#EXTINF:0 tvg-id="france24eng" group-title="📻 Radio" tvg-name="VOV Mekong" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_VOV_Mekong.png", VOV Mekong
+http://media.kythuatvov.vn:1936/live/MEKONG.sdp/playlist.m3u8
+#EXTINF:0 tvg-id="france24eng" group-title="📻 Radio" tvg-name="VOV Sức khỏe 89" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_VOV_SucKhoe.png", VOV Sức khỏe 89
+http://media.kythuatvov.vn:1936/live/VOV89.sdp/playlist.m3u8
+#EXTINF:0 tvg-id="france24eng" group-title="📻 Radio" tvg-name="VOV 1 - Thời sự" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_VOV1.png", VOV 1 - Thời sự
+https://str.vov.gov.vn/vovlive/vov1vov5Vietnamese.sdp_aac/playlist.m3u8
+#EXTINF:0 tvg-id="france24eng" group-title="📻 Radio" tvg-name="VOV 2 - Văn Hóa Xã Hội" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_VOV2.png", VOV 2 - Văn Hóa Xã Hội
+https://str.vov.gov.vn/vovlive/vov2.sdp_aac/playlist.m3u8
+#EXTINF:0 tvg-id="france24eng" group-title="📻 Radio" tvg-name="VOV 3 - Âm Nhạc" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_VOV3.png", VOV 3 - Âm Nhạc
+https://str.vov.gov.vn/vovlive/vov3.sdp_aac/playlist.m3u8
+#EXTINF:0 tvg-id="france24eng" group-title="📻 Radio" tvg-name="VOV4 - ĐBSCL" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_VOV4.png", VOV4 - ĐBSCL
+http://media.kythuatvov.vn:1936/live/VOV4_CT.sdp/playlist.m3u8
+#EXTINF:0 tvg-id="france24eng" group-title="📻 Radio" tvg-name="VOV5 - World" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_VOV5_Word.png", VOV5 - World
+http://media.kythuatvov.vn:1936/live/VOV5.sdp/playlist.m3u8
+#EXTINF:0 tvg-id="france24eng" group-title="📻 Radio" tvg-name="VOV5 - English 24/7" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_VOV5.png", VOV5 - English 24/7
+http://media.kythuatvov.vn:7007/;stream/
+
+#------------KÊNH TỔNG HỢP THEO: ⚽️ Câu lạc bộ thể Thao ----------#
+
+
