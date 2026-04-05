@@ -1,161 +1,161 @@
 #EXTM3U url-tvg="http://trada.info/epg.xml" tvg-shift=0 cache=500 deinterlace=1 aspect-ratio=16:9 m3uautoload=1
 #EXTINF:1 tvg-id="htv1" tvg-name="HTV1" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_HTV1.png", HTV1
-udp://@225.1.1.180:30120
+udp://225.1.1.180:30120
 #EXTINF:2 tvg-id="htv2hd" tvg-name="HTV2HD" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_HTV2.png", HTV2 Vie Channel
-udp://@225.1.1.193:30120
+udp://225.1.1.193:30120
 #EXTINF:3 tvg-id="htv3" tvg-name="HTV3" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_HTV3.png", HTV3 Dreams TV
-udp://@225.1.1.178:30120
+udp://225.1.1.178:30120
 #EXTINF:4 tvg-id="htv7hd" tvg-name="HTV7HD" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_HTV7.png", HTV7
-udp://@225.1.1.192:30120
+udp://225.1.1.192:30120
 #EXTINF:5 tvg-id="htv9hd" tvg-name="HTV9HD" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_HTV9.png", HTV9
-udp://@225.1.1.190:30120
+udp://225.1.1.190:30120
 #EXTINF:6 tvg-id="htvcfbnc" tvg-name="HTVCFBNC" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_HTVC_FBNC.png", FBNC
-udp://@225.1.1.182:30120
+udp://225.1.1.182:30120
 #EXTINF:7 tvg-id="htvcphimhd" tvg-name="HTVCPHIMHD" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_HTVC_Phim.png", HTVC Phim
-udp://@225.1.1.184:30120
+udp://225.1.1.184:30120
 #EXTINF:8 tvg-id="htvcthuanviethd" tvg-name="HTVCTHUANVIETHD" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_HTVC_ThuanViet.png", Thuần Việt
-udp://@225.1.1.186:30120
+udp://225.1.1.186:30120
 #EXTINF:9 tvg-id="htvkey" tvg-name="HTVKEY" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_HTV_Keys.png", HTV Keys
-udp://@225.1.1.177:30120
+udp://225.1.1.177:30120
 #EXTINF:10 tvg-id="htvthethaohd" tvg-name="HTVTHETHAOHD" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_HTV_TheThao.png", HTV Thể Thao
-udp://@225.1.1.165:30120
+udp://225.1.1.165:30120
 #EXTINF:11 tvg-id="htvccanhachd" tvg-name="HTVCCANHACHD" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_HTVC_Canhac.png", HTVC Ca Nhạc
-udp://@225.1.1.185:30120
+udp://225.1.1.185:30120
 #EXTINF:12 tvg-id="htvcdulichhd" tvg-name="HTVCDULICHHD" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_HTVC_DLCS.png", HTVC Du Lịch và Cuộc Sống
-udp://@225.1.1.166:30120
+udp://225.1.1.166:30120
 #EXTINF:13 tvg-id="htvcgiadinhhd" tvg-name="HTVCGIADINHHD" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_HTVC_GiaDinh.png", HTVC Gia Đình
-udp://@225.1.1.170:30120
+udp://225.1.1.170:30120
 #EXTINF:14 tvg-id="htvcphunuhd" tvg-name="HTVCPHUNUHD" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_HTVC_PhuNu.png", HTVC Phụ Nữ
-udp://@225.1.1.171:30120
+udp://225.1.1.171:30120
 #EXTINF:15 tvg-id="htvcplushd" tvg-name="HTVCPLUSHD" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_HTVC_Plus.png", HTVC PLUS
-udp://@225.1.4.91:30120
+udp://225.1.4.91:30120
 #EXTINF:16 tvg-id="vtv1hd" tvg-name="VTV1" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_VTV1.png", VTV1
-udp://@225.1.2.249:30120
+udp://225.1.2.249:30120
 #EXTINF:17 tvg-id="vtv2hd" tvg-name="VTV2" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_VTV2.png", VTV2
-udp://@225.1.2.13:30120
+udp://225.1.2.13:30120
 #EXTINF:18 tvg-id="vtv3hd" tvg-name="VTV3" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_VTV3.png", VTV3
-udp://@225.1.2.247:30120
+udp://225.1.2.247:30120
 #EXTINF:19 tvg-id="vtv4hd" tvg-name="VTV4" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_VTV4.png", VTV4
-udp://@225.1.2.20:30120
+udp://225.1.2.20:30120
 #EXTINF:20 tvg-id="vtv5hd" tvg-name="VTV5" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_VTV5.png", VTV5
-udp://@225.1.1.131:30120
+udp://225.1.1.131:30120
 #EXTINF:23 tvg-id="vtv6hd" tvg-name="VTV Cần Thơ" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_VTVCT.png", VTV Cần Thơ
-udp://@225.1.2.245:30120
+udp://225.1.2.245:30120
 #EXTINF:24 tvg-id="vtv7hd" tvg-name="VTV7" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_VTV7.png", VTV7
-udp://@225.1.2.96:30120
+udp://225.1.2.96:30120
 #EXTINF:25 tvg-id="vtv8hd" tvg-name="VTV8" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_VTV8.png", VTV8
-udp://@225.1.2.166:30120
+udp://225.1.2.166:30120
 #EXTINF:26 tvg-id="vtv9hd" tvg-name="VTV9" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_VTV9.png", VTV9
-udp://@225.1.1.128:30120
+udp://225.1.1.128:30120
 #EXTINF:27 tvg-id="vinhlong1hd" tvg-name="THVL 1" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_THVL1.png", THVL 1
-udp://@225.1.1.155:30120
+udp://225.1.1.155:30120
 #EXTINF:28 tvg-id="vinhlong2hd" tvg-name="THVL 2" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_THVL2.png", THVL 2
-udp://@225.1.1.154:30120
+udp://225.1.1.154:30120
 #EXTINF:29 tvg-id="vinhlong3hd" tvg-name="THVL 3" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_THVL3.png", THVL 3
-udp://@225.1.1.235:30120
+udp://225.1.1.235:30120
 #EXTINF:30 tvg-id="vinhlong4hd" tvg-name="THVL 4" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_THVL4.png", THVL 4
-udp://@225.1.2.25:30120
+udp://225.1.2.25:30120
 #EXTINF:88 tvg-id="sctv2hd" tvg-name="SCTV2HD" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_SCTV2.png", SCTV2 - AMC
-udp://@225.1.1.234:30120
+udp://225.1.1.234:30120
 #EXTINF:92 tvg-id="sctv6hd" tvg-name="SCTV6HD" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_SCTV6.png", SCTV6 - SNTV
-udp://@225.1.1.188:30120
+udp://225.1.1.188:30120
 #EXTINF:96 tvg-id="sctv10hd" tvg-name="SCTV10HD" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_SCTV10.png", SCTV 10
-udp://@225.1.2.37:30120
+udp://225.1.2.37:30120
 #EXTINF:40 tvg-id="vtc1hd" tvg-name="VTC1" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_VTC1.png", VTC1
-udp://@225.1.2.254:30120
+udp://225.1.2.254:30120
 #EXTINF:41 tvg-id="vtc2" tvg-name="VTC2" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_VTC2.png", VTC2
-udp://@225.1.2.202:30120
+udp://225.1.2.202:30120
 #EXTINF:42 tvg-id="vtc3hd" tvg-name="VTC3" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_VTC3.png", VTC3 ON SPORTS
-udp://@225.1.4.42:30120
+udp://225.1.4.42:30120
 #EXTINF:43 tvg-id="vtc4hd" tvg-name="VTC4" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_VTC4.png", VTC4 Yeah1 Family
-udp://@225.1.2.200:30120
+udp://225.1.2.200:30120
 #EXTINF:44 tvg-id="vtc5hd" tvg-name="VTC5" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_VTC5.jpg", VTC5
-udp://@225.1.2.199:30120
+udp://225.1.2.199:30120
 #EXTINF:45 tvg-id="vtc6hd" tvg-name="VTC6" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_VTC6.png", VTC6
-udp://@225.1.2.198:30120
+udp://225.1.2.198:30120
 #EXTINF:46 tvg-id="vtc7hd" tvg-name="VTC7" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_VTC7.png", VTC7 Today TV
-udp://@225.1.2.197:30120
+udp://225.1.2.197:30120
 #EXTINF:47 tvg-id="vtc8" tvg-name="VTC8" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_VTC8.jpg", VTC8
-udp://@225.1.2.196:30120
+udp://225.1.2.196:30120
 #EXTINF:48 tvg-id="vtc9hd" tvg-name="VTC9" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_VTC9.png", VTC9 Let's Viet
-udp://@225.1.2.195:30120
+udp://225.1.2.195:30120
 #EXTINF:49 tvg-id="vtc10hd" tvg-name="VTC10 tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_VTC10.png", VTC10
-udp://@225.1.2.194:30120
+udp://225.1.2.194:30120
 #EXTINF:50 tvg-id="vtc11hd" tvg-name="VTC11" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_VTC11.png", VTC11 Kids TV
-udp://@225.1.2.193:30120
+udp://225.1.2.193:30120
 #EXTINF:51 tvg-id="vtc12dhd" tvg-name="VTC12" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_VTC12.jpg", VTC12-ClipTV
-udp://@225.1.2.51:30120
+udp://225.1.2.51:30120
 #EXTINF:52 tvg-id="vtc13hd" tvg-name="VTC13" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_VTC13.png", VTC13
-udp://@225.1.2.250:30120
+udp://225.1.2.250:30120
 #EXTINF:53 tvg-id="vtc14hd" tvg-name="VTC14" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_VTC14.png", VTC14
-udp://@225.1.2.88:30120
+udp://225.1.2.88:30120
 #EXTINF:54 tvg-id="vovtvhd" tvg-name="VOV" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_VTC15.png", VOV TV
-udp://@225.1.2.171:30120
+udp://225.1.2.171:30120
 #EXTINF:55 tvg-id="vtc16" tvg-name="VTC16" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_VTC16.jpg", VTC16
-udp://@225.1.2.190:30120
+udp://225.1.2.190:30120
 #EXTINF:111 tvg-id="animalhd" tvg-name="ANIMAL PLANET" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_Animal_Planet.png", ANIMAL PLANET
-udp://@225.1.1.231:30120
+udp://225.1.1.231:30120
 #EXTINF:112 tvg-id="animaxhd" tvg-name="Animax" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_Animax.png", Animax
-udp://@225.1.1.135:30120
+udp://225.1.1.135:30120
 #EXTINF:113 tvg-id="arirang" tvg-name="Arirang" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_Arirang.png", Arirang
-udp://@225.1.4.74:30120
+udp://225.1.4.74:30120
 #EXTINF:114 tvg-id="afnhd" tvg-name="Asian Food Network" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_AFN.png", Asian Food Network
-udp://@225.1.4.36:30120
+udp://225.1.4.36:30120
 #EXTINF:115 tvg-id="axnhd" tvg-name="AXN" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_AXN.png", AXN
-udp://@225.1.2.225:30120
+udp://225.1.2.225:30120
 #EXTINF:116 tvg-id="babyfirst" tvg-name="Baby First" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_Babyfirst.png", Baby First
-udp://@225.1.4.28:30120
+udp://225.1.4.28:30120
 #EXTINF:117 tvg-id="babytvhd" tvg-name="Baby TV" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_BabyTV.png", Baby TV
-udp://@225.1.4.35:30120
+udp://225.1.4.35:30120
 #EXTINF:118 tvg-id="cbeebies" tvg-name="BBC CbeeBies" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_CBeebies.png", BBC CbeeBies
-udp://@225.1.1.134:30120
+udp://225.1.1.134:30120
 #EXTINF:119 tvg-id="bbcearth" tvg-name="BBC earth" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_BBC_Earth.png", BBC earth
-udp://@225.1.4.21:30120
+udp://225.1.4.21:30120
 #EXTINF:120 tvg-id="bbclifestyle" tvg-name="BBC lifestyle" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_BBC_Lifestyle.jpg", BBC lifestyle
-udp://@225.1.4.23:30120
+udp://225.1.4.23:30120
 #EXTINF:121 tvg-id="bbcworldnews" tvg-name="BBC World News" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_BBC_WorldNews.png", BBC World News
-udp://@225.1.4.22:30120
+udp://225.1.4.22:30120
 #EXTINF:122 tvg-id="bloomberg" tvg-name="Bloomberg" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_Bloomberg.png", Bloomberg
-udp://@225.1.4.18:30120
+udp://225.1.4.18:30120
 #EXTINF:124 tvg-id="blueantent" tvg-name="Blue Ant Entertainment" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_Blue_ant_entertainment.png", Blue Ant Entertainment
-udp://@225.1.1.203:30120
+udp://225.1.1.203:30120
 #EXTINF:125 tvg-id="blueantext" tvg-name="Blue Ant Extreme" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_Blue_ant_extreme.png", Blue Ant Extreme
-udp://@225.1.1.204:30120
+udp://225.1.1.204:30120
 #EXTINF:126 tvg-id="boomerang" tvg-name="Boomerang" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_Boomerang.png", Boomerang
-udp://@225.1.4.16:30120
+udp://225.1.4.16:30120
 #EXTINF:130 tvg-id="cartoonhd" tvg-name="Cartoon Network" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_Cartoon_Network.png", Cartoon Network
-udp://@225.1.4.13:30120
+udp://225.1.4.13:30120
 #EXTINF:131 tvg-id="cinemaworld" tvg-name="Cinema World " tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_cinemax_World.png", Cinema World 
-udp://@225.1.1.142:30120
+udp://225.1.1.142:30120
 #EXTINF:132 tvg-id="cinemaxhd" tvg-name="Cinemax" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_cinemax.png", Cinemax
-udp://@225.1.2.86:30120
+udp://225.1.2.86:30120
 #EXTINF:133 tvg-id="sbscnbchd" tvg-name="CNBC" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_CNBC.png", CNBC
-udp://@225.1.1.227:30120
+udp://225.1.1.227:30120
 #EXTINF:134 tvg-id="cnn" tvg-name="CNN" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_CNN.png", CNN
-udp://@225.1.4.17:30120
+udp://225.1.4.17:30120
 #EXTINF:135 tvg-id="davinci" tvg-name="Da Vinci" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_Da_Vinci.png", Da Vinci
-udp://@225.1.1.197:30120
+udp://225.1.1.197:30120
 #EXTINF:136 tvg-id="discoveryasiahd" tvg-name="Discovery Asia" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_Discovery_Asia.png", Discovery Asia
-udp://@225.1.4.25:30120
+udp://225.1.4.25:30120
 #EXTINF:137 tvg-id="discoveryhd" tvg-name="Discovery Channel" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_Discovery.png", Discovery Channel
-udp://@225.1.4.24:30120
+udp://225.1.4.24:30120
 #EXTINF:138 tvg-id="dreamworks" tvg-name="DreamWorks" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_DREAMWORKS_Kids.png", DreamWorks
-udp://@225.1.1.136:30120
+udp://225.1.1.136:30120
 #EXTINF:139 tvg-id="fashionhd" tvg-name="FASHION TV 4K" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_Fashion.png", FASHION TV 4K
-udp://@225.1.2.232:30120
+udp://225.1.2.232:30120
 #EXTINF:140 tvg-id="hbohd" tvg-name="HBO" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_HBO.png", HBO
-udp://@225.1.4.90:30120
+udp://225.1.4.90:30120
 #EXTINF:141 tvg-id="kbsword" tvg-name="KBS World" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_KBS_World.png", KBS World
-udp://@225.1.4.69:30120
+udp://225.1.4.69:30120
 #EXTINF:142 tvg-id="kix" tvg-name="KIX" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_KIX.png", KIX
-udp://@225.1.2.144:30120
+udp://225.1.2.144:30120
 #EXTINF:143 tvg-id="mtvhd" tvg-name="MTV" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_MTV.png", MTV
-udp://@225.1.1.245:30120
+udp://225.1.1.245:30120
 #EXTINF:144 tvg-id="ngwhd" tvg-name="NAT GEO WILD" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_Nat_Ge_Wild.png", NAT GEO WILD
-udp://@225.1.1.211:30120
+udp://225.1.1.211:30120
 #EXTINF:145 tvg-id="ngchd" tvg-name="National Geographic" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_National_Geographic.png", National Geographic
-udp://@225.1.2.235:30120
+udp://225.1.2.235:30120
 #EXTINF:146 tvg-id="nhkworld" tvg-name="NHK World Japan" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_NHK.png", NHK World Japan
-udp://@225.1.4.73:30120
+udp://225.1.4.73:30120
 #EXTINF:147 tvg-id="outdoorhd" tvg-name="Outdoor Channel" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_Outdoor_Channel.png", Outdoor Channel
-udp://@225.1.2.215:30120
+udp://225.1.2.215:30120
