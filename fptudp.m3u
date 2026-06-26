@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://trada.info/epg.xml" tvg-shift=0 cache=500 deinterlace=1 aspect-ratio=16:9 m3uautoload=1
+#EXTM3U url-tvg="Link EPG mới : http://lichphatsong.site/schedule/epg.xml" tvg-shift=0 cache=500 deinterlace=1 aspect-ratio=16:9 m3uautoload=1
 #------------KÊNH TỔNG HỢP THEO: 🎡 Thiếu Nhi ----------#
 #EXTINF:0 tvg-id="babyfirst" group-title="🎡 Thiếu Nhi" tvg-name="Baby First HD" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_Babyfirst.png", Baby First HD
 udp://@225.1.4.28:30120
@@ -128,7 +128,7 @@ https://mutixx5hq1liv.akamaized.net/vtv5tnb/vtv5tnb@720p.m3u8
 #EXTINF:0 tvg-id="vtv5hdtn" group-title="🏟  VTV- CAB" tvg-name="VTV5 TN" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_VTV5TN.png" description="Truyền hình dân tộc" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv5hdtn_1500.stream/chunks_dvr_range-${start}-10800.m3u8", VTV5 HD Tây Nguyên
 https://mutixx5hq1liv.akamaized.net/vtv5tn/vtv5tn@720p.m3u8
 #EXTINF:0 tvg-id="vtv6hd" group-title="🏟  VTV- CAB" tvg-name="VTV6" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_VTV6HD.png" description="Truyền hình thanh thiếu niên" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv6hd_1500.stream/chunks_dvr_range-${start}-10800.m3u8", VTV6 HD
-udp://@225.1.2.245:30120
+udp://@225.1.2.154:30120
 #EXTINF:0 tvg-id="vtv7hd" group-title="🏟  VTV- CAB" tvg-name="VTV7" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_VTV7HD.png" description="Truyền hình giáo dục" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv7hd_1500.stream/chunks_dvr_range-${start}-10800.m3u8", VTV7 HD
 udp://@225.1.2.96:30120
 #EXTINF:0 tvg-id="vtv8hd" group-title="🏟  VTV- CAB" tvg-name="VTV8" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_VTV8HD.png" description="Truyền hình quốc gia khu vực miền Trung Tây Nguyên" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv8hd_1500.stream/chunks_dvr_range-${start}-10800.m3u8", VTV8 HD
@@ -139,7 +139,8 @@ udp://@225.1.1.128:30120
 udp://@225.1.2.167:30120
 #EXTINF:0 tvg-id="vtvcab13hd" group-title="🏟  VTV- CAB" tvg-name="VTVCAB13" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_VTVCAB13.png",VTV Hyundai Homeshopping
 udp://@225.1.1.122:30120
-
+#EXTINF:0 tvg-id="vtv10hd" group-title="🏟  VTV- CAB" tvg-name="VTV6" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_VTV10.png" description="Truyền hình thanh thiếu niên" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv6hd_1500.stream/chunks_dvr_range-${start}-10800.m3u8", VTV10 HD
+udp://@225.1.2.245:30120
 #------------KÊNH TỔNG HỢP THEO: 🌏 Quốc Tế ----------#
 #EXTINF:0 tvg-id="cnn" group-title="🌏 Quốc Tế" tvg-name="CNN" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_CNN.png", CNN
 udp://@225.1.4.17:30120
