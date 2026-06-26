@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://trada.info/epg.xml" tvg-shift=0 cache=500 deinterlace=1 aspect-ratio=16:9 m3uautoload=1
+#EXTM3U url-tvg="http://lichphatsong.site/schedule/epg.xml" tvg-shift=0 cache=500 deinterlace=1 aspect-ratio=16:9 m3uautoload=1
 #EXTINF:1 tvg-id="htv1" tvg-name="HTV1" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_HTV1.png", HTV1
 udp://225.1.1.180:30120
 #EXTINF:2 tvg-id="htv2hd" tvg-name="HTV2HD" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_HTV2.png", HTV2 Vie Channel
@@ -41,12 +41,16 @@ udp://225.1.2.20:30120
 udp://225.1.1.131:30120
 #EXTINF:23 tvg-id="vtv6hd" tvg-name="VTV Cần Thơ" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_VTVCT.png", VTV Cần Thơ
 udp://225.1.2.245:30120
+#EXTINF:0 tvg-id="vtv6hd" tvg-name="VTV6" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_VTV6HD.png" description="Truyền hình thanh thiếu niên" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv6hd_1500.stream/chunks_dvr_range-${start}-10800.m3u8", VTV6 HD
+udp://@225.1.2.154:30120
 #EXTINF:24 tvg-id="vtv7hd" tvg-name="VTV7" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_VTV7.png", VTV7
 udp://225.1.2.96:30120
 #EXTINF:25 tvg-id="vtv8hd" tvg-name="VTV8" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_VTV8.png", VTV8
 udp://225.1.2.166:30120
 #EXTINF:26 tvg-id="vtv9hd" tvg-name="VTV9" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_VTV9.png", VTV9
 udp://225.1.1.128:30120
+#EXTINF:0 tvg-id="vtv10hd" tvg-name="VTV6" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_VTV10.png", VTV10 HD
+udp://@225.1.2.245:30120
 #EXTINF:27 tvg-id="vinhlong1hd" tvg-name="THVL 1" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_THVL1.png", THVL 1
 udp://225.1.1.155:30120
 #EXTINF:28 tvg-id="vinhlong2hd" tvg-name="THVL 2" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_THVL2.png", THVL 2
