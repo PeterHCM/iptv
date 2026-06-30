@@ -79,39 +79,6 @@ udp://@225.1.1.170:30120
 udp://@225.1.1.171:30120
 #EXTINF:0 tvg-id="htvcplushd" group-title="📽 HTV - HTVC" tvg-name="HTVCPLUSHD" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_HTVC_Plus.png" description="Thời sự tổng hợp" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/htvcplushd_1000.stream/chunks_dvr_range-${start}-10800.m3u8", HTVC PLUS
 udp://@225.1.4.91:30120
-#------------KÊNH TỔNG HỢP THEO: 👪 SCTV - VTC ----------#
-#EXTINF:0 tvg-id="vtc1hd" group-title="👪 SCTV - VTC" tvg-name="VTC1" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_VTC1.png" tvg-chno="10" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtc1_1500.stream/chunks_dvr_range-${start}-10800.m3u8", VTC1 HD
-udp://@225.1.2.254:30120
-#EXTINF:0 tvg-id="vtc2" group-title="👪 SCTV - VTC" tvg-name="VTC2" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_VTC2.png" tvg-chno="11" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtc2_1000.stream/chunks_dvr_range-${start}-10800.m3u8", VTC2
-udp://@225.1.2.202:30120
-#EXTINF:0 tvg-id="vtc3hd" group-title="👪 SCTV - VTC" tvg-name="VTC3" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_VTC3.png" tvg-chno="11" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtc3_1000.stream/chunks_dvr_range-${start}-10800.m3u8", VTC3 ON SPORTS
-udp://@225.1.4.42:30120
-#EXTINF:0 tvg-id="vtc4hd" group-title="👪 SCTV - VTC" tvg-name="VTC4" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_VTC4.png" tvg-chno="12" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtc4_1000.stream/chunks_dvr_range-${start}-10800.m3u8", VTC4 Yeah1 Family HD
-udp://@225.1.2.200:30120
-#EXTINF:0 tvg-id="vtc5hd" group-title="👪 SCTV - VTC" tvg-name="VTC5" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_VTC5.jpg" tvg-chno="13" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtc5_1000.stream/chunks_dvr_range-${start}-10800.m3u8", VTC5 HD
-udp://@225.1.2.199:30120
-#EXTINF:0 tvg-id="vtc6hd" group-title="👪 SCTV - VTC" tvg-name="VTC6" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_VTC6.png" tvg-chno="14" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtc6_1000.stream/chunks_dvr_range-${start}-10800.m3u8", VTC6 HD
-udp://@225.1.2.198:30120
-#EXTINF:0 tvg-id="vtc7hd" group-title="👪 SCTV - VTC" tvg-name="VTC7" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_VTC7.png" tvg-chno="15" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtc7_1000.stream/chunks_dvr_range-${start}-10800.m3u8", VTC7 Today TV HD
-udp://@225.1.2.197:30120
-#EXTINF:0 tvg-id="vtc8" group-title="👪 SCTV - VTC" tvg-name="VTC8" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_VTC8.jpg" tvg-chno="16" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtc8_1000.stream/chunks_dvr_range-${start}-10800.m3u8", VTC8 HD
-udp://@225.1.2.196:30120
-#EXTINF:0 tvg-id="vtc9hd" group-title="👪 SCTV - VTC" tvg-name="VTC9" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_VTC9.png" tvg-chno="17" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtc9_1000.stream/chunks_dvr_range-${start}-10800.m3u8", VTC9 Let's Viet HD
-udp://@225.1.2.195:30120
-#EXTINF:0 tvg-id="vtc10hd" group-title="👪 SCTV - VTC" tvg-name="VTC10" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_VTC10.png" tvg-chno="18" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtc10_1000.stream/chunks_dvr_range-${start}-10800.m3u8", VTC10 HD
-udp://@225.1.2.194:30120
-#EXTINF:0 tvg-id="vtc11hd" group-title="👪 SCTV - VTC" tvg-name="VTC11" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_VTC11.png" tvg-chno="19" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtc11_1000.stream/chunks_dvr_range-${start}-10800.m3u8", VTC11 Kids TV
-udp://@225.1.2.193:30120
-#EXTINF:0 tvg-id="vtc12dhd" group-title="👪 SCTV - VTC" tvg-name="VTC12" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_VTC12.jpg" tvg-chno="20" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtc12_1000.stream/chunks_dvr_range-${start}-10800.m3u8", VTC12-ClipTV
-udp://@225.1.2.51:30120
-#EXTINF:0 tvg-id="vtc13hd" group-title="👪 SCTV - VTC" tvg-name="VTC13" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_VTC13.png" tvg-chno="21" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtc13_1000.stream/chunks_dvr_range-${start}-10800.m3u8", VTC13 HD
-udp://@225.1.2.250:30120
-#EXTINF:0 tvg-id="vtc14hd" group-title="👪 SCTV - VTC" tvg-name="VTC14" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_VTC14.png" tvg-chno="22" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtc14_1000.stream/chunks_dvr_range-${start}-10800.m3u8", VTC14 HD
-udp://@225.1.2.88:30120
-#EXTINF:0 tvg-id="vovtvhd" group-title="👪 SCTV - VTC" tvg-name="VOV" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_VTC15.png", VOV TV
-udp://@225.1.2.171:30120
-#EXTINF:0 tvg-id="vtc16" group-title="👪 SCTV - VTC" tvg-name="VTC16" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_VTC16.jpg" tvg-chno="23" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtc16_1000.stream/chunks_dvr_range-${start}-10800.m3u8", VTC16
-udp://@225.1.2.190:30120
 #------------KÊNH TỔNG HỢP THEO: 🏟  VTV- CAB ----------#
 #EXTINF:0 tvg-id="vtv1hd" group-title="🏟  VTV- CAB" tvg-name="VTV1" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_VTV1HD.png"  description="Thời sự tổng hợp" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv1hd_1000.stream/chunks_dvr_range-${start}-10800.m3u8", VTV1 HD
 udp://@225.1.2.249:30120
@@ -141,6 +108,8 @@ udp://@225.1.2.167:30120
 udp://@225.1.1.122:30120
 #EXTINF:0 tvg-id="vtv10hd" group-title="🏟  VTV- CAB" tvg-name="VTV6" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_VTV10.png" description="Truyền hình thanh thiếu niên" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv6hd_1500.stream/chunks_dvr_range-${start}-10800.m3u8", VTV10 HD
 udp://@225.1.2.245:30120
+#EXTINF:0 tvg-id="vovtvhd" group-title="🏟  VTV- CAB" tvg-name="VOV" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_VTC15.png", VOV TV
+udp://@225.1.2.171:30120
 #------------KÊNH TỔNG HỢP THEO: 🌏 Quốc Tế ----------#
 #EXTINF:0 tvg-id="cnn" group-title="🌏 Quốc Tế" tvg-name="CNN" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_CNN.png", CNN
 udp://@225.1.4.17:30120
